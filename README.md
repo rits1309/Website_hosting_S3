@@ -11,5 +11,5 @@ S3 Amazon Simple Storage Service (Amazon S3) is a scalable object storage servic
 - ATlast run **Terraform apply**
 
 ### Then, Clicking on output URL web page can be shown  on localhost.
-- Remember  to destroy all the resources ,for that run "Terraform destroy".
+- Remember  to destroy all the resources ,for that run **Terraform destroy**.
 
