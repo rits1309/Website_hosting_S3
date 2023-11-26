@@ -13,5 +13,5 @@ provider "aws" {
 }
 provider "github" {
   # Configuration options
-  token = "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"
+  token = ""#Put your  github access token
 }
